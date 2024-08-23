@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Conversor de Unidades</string>
+    <string name="temperature">Temperatura</string>
+    <string name="length">Longitud</string>
+    <string name="mass">Masa</string>
+    <string name="time">Tiempo</string>
+    <string name="select">Seleccione la Unidad</string>
+    <string name="convert">Convertir</string>
+</resources>
